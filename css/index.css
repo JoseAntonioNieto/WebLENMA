@@ -53,3 +53,27 @@ a {
 main h1 {
     text-align: center;
 }
+main {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+aside {
+    background-color: red;
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+aside p,a {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.aside {
+    font-size: 40px;
+}
+aside a{
+    background-color: white;
+    border-radius: 20px;
+}
