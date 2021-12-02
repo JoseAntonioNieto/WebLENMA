@@ -79,3 +79,101 @@ footer p {
     text-align: center;
     color: white;
 }
+article img {
+    width: 200px;
+    height: 200px;
+}
+article {
+    display: grid;
+    grid-template-rows: 33.333333% 33.3333333% 33.33333333%;
+    grid-template-rows: 25% 25% 25% 25%;
+    gap: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+#elixirnanoweb {
+    grid-column: 1/4;
+    grid-row: 1/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#ernieball2221 {
+    grid-column: 2/4;
+    grid-row: 1/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#ernieball2223 {
+    grid-column: 3/4;
+    grid-row: 1/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#fender250L {
+    grid-column: 1/4;
+    grid-row: 2/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#ernieball2721 {
+    grid-column: 2/4;
+    grid-row: 2/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#paradigmSTHB7 {
+    grid-column: 3/4;
+    grid-row: 2/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#dunlopheavy {
+    grid-column: 1/4;
+    grid-row: 3/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#GHSDavidGilmour {
+    grid-column: 2/4;
+    grid-row: 3/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#ghsboomers {
+    grid-column: 3/4;
+    grid-row: 3/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#IbanezIEGS61 {
+    grid-column: 1/4;
+    grid-row: 4/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#ghsdave {
+    grid-column: 2/4;
+    grid-row: 4/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#gibsonvintagereissue {
+    grid-column: 3/4;
+    grid-row: 4/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}

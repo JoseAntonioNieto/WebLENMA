@@ -79,3 +79,101 @@ footer p {
     text-align: center;
     color: white;
 }
+article img {
+    width: 200px;
+    height: 200px;
+}
+article {
+    display: grid;
+    grid-template-rows: 33.333333% 33.3333333% 33.33333333%;
+    grid-template-rows: 25% 25% 25% 25%;
+    gap: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+#fastfreet {
+    grid-column: 1/4;
+    grid-row: 1/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#dunlopoil {
+    grid-column: 2/4;
+    grid-row: 1/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#dunloppolish {
+    grid-column: 3/4;
+    grid-row: 1/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#fendercs {
+    grid-column: 1/4;
+    grid-row: 2/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#fendercleaner {
+    grid-column: 2/4;
+    grid-row: 2/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#ebpolish {
+    grid-column: 3/4;
+    grid-row: 2/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#dunlopcleaner {
+    grid-column: 1/4;
+    grid-row: 3/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#dunlopkit {
+    grid-column: 2/4;
+    grid-row: 3/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#dunlopsblue {
+    grid-column: 3/4;
+    grid-row: 3/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#fenderpolish {
+    grid-column: 1/4;
+    grid-row: 4/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#fendecloth {
+    grid-column: 2/4;
+    grid-row: 4/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#gibsoncloth {
+    grid-column: 3/4;
+    grid-row: 4/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}

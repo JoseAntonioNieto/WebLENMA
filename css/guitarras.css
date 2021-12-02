@@ -79,3 +79,102 @@ footer p {
     text-align: center;
     color: white;
 }
+article img {
+    width: 200px;
+    height: 200px;
+}
+article {
+    display: grid;
+    grid-template-rows: 33.333333% 33.3333333% 33.33333333%;
+    grid-template-rows: 25% 25% 25% 25%;
+    gap: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+#jacksonjs32 {
+    grid-column: 1/4;
+    grid-row: 1/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#stratyngwie {
+    grid-column: 2/4;
+    grid-row: 1/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#espeii {
+    grid-column: 3/4;
+    grid-row: 1/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#ibanezjemjr {
+    grid-column: 1/4;
+    grid-row: 2/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#gibsonfv70 {
+    grid-column: 2/4;
+    grid-row: 2/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#cortkx500 {
+    grid-column: 3/4;
+    grid-row: 2/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#jacksonadrian {
+    grid-column: 1/4;
+    grid-row: 3/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#lespaulcustom {
+    grid-column: 2/4;
+    grid-row: 3/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#ironcross {
+    grid-column: 3/4;
+    grid-row: 3/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#squierstrat {
+    grid-column: 1/4;
+    grid-row: 4/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#explorerantique {
+    grid-column: 2/4;
+    grid-row: 4/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+#jacksonrhoads {
+    grid-column: 3/4;
+    grid-row: 4/5;
+    border: 1px solid black;
+    height: 270px;
+    width: 250px;
+}
+
