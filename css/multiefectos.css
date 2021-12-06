@@ -93,86 +93,44 @@ article {
     text-align: center;
 }
 
-#jazziiikh {
+#l6helix {
     grid-column: 1/4;
     grid-row: 1/5;
     border: 1px solid black;
     height: 270px;
     width: 250px;
 }
-#ibanezpaulgilbert {
+#neuralquad {
     grid-column: 2/4;
     grid-row: 1/5;
     border: 1px solid black;
     height: 270px;
     width: 250px;
 }
-#ibanezsteve {
+#l6podgo {
     grid-column: 3/4;
     grid-row: 1/5;
     border: 1px solid black;
     height: 270px;
     width: 250px;
 }
-#dunlopjim {
+#bossgt100 {
     grid-column: 1/4;
     grid-row: 2/5;
     border: 1px solid black;
     height: 270px;
     width: 250px;
 }
-#dunlopvariety {
+#l6hx {
     grid-column: 2/4;
     grid-row: 2/5;
     border: 1px solid black;
     height: 270px;
     width: 250px;
 }
-#ebprodigy {
+#l6helixrack {
     grid-column: 3/4;
     grid-row: 2/5;
-    border: 1px solid black;
-    height: 270px;
-    width: 250px;
-}
-#fenderot {
-    grid-column: 1/4;
-    grid-row: 3/5;
-    border: 1px solid black;
-    height: 270px;
-    width: 250px;
-}
-#dunloptortex {
-    grid-column: 2/4;
-    grid-row: 3/5;
-    border: 1px solid black;
-    height: 270px;
-    width: 250px;
-}
-#dunlopjazz {
-    grid-column: 3/4;
-    grid-row: 3/5;
-    border: 1px solid black;
-    height: 270px;
-    width: 250px;
-}
-#ibanezppa {
-    grid-column: 1/4;
-    grid-row: 4/5;
-    border: 1px solid black;
-    height: 270px;
-    width: 250px;
-}
-#ebeverlast {
-    grid-column: 2/4;
-    grid-row: 4/5;
-    border: 1px solid black;
-    height: 270px;
-    width: 250px;
-}
-#gibsonxheavy {
-    grid-column: 3/4;
-    grid-row: 4/5;
     border: 1px solid black;
     height: 270px;
     width: 250px;
